@@ -1,3 +1,2 @@
 #This is test file
-Updated this file 2nd time by Naresh
-Updated this file 3rd time by Ramesh from Remote Repo
+Updated this file 2nd time by Naresh1
